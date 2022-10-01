@@ -88,7 +88,7 @@
     "relay-runtime": "^11.0.2",
     "styled-jsx": "latest",
     "subscriptions-transport-ws": "^0.9.19",
-    "uuid": "^8.3.2"
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "@babel/traverse": "^7.14.7",
